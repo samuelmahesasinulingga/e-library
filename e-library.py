@@ -25,7 +25,7 @@ while True:
     print('4. Kembalikan Buku')
     print('5. Keluar')
     
-    pil = input("Masukkan Pilihan anda (1-4) : ") 
+    pil = input("Masukkan Pilihan anda (1-5) : ") 
 
     # Kondisi saat memilih Nomor 1 untuk melihat daftar suatu buku dengan memilih sesuai genre
     if pil == '1':
